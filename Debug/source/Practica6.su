@@ -1,0 +1,5 @@
+Practica6.c:27:5:main	32	static
+Practica6.c:115:6:vfnPinMode	48	static
+Practica6.c:138:6:vfnDigitalWrite	40	static
+Practica6.c:151:15:vfnDigitalRead	32	static
+Practica6.c:162:6:ADCInit	32	static
